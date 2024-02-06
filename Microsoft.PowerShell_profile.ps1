@@ -178,7 +178,7 @@ function uptime {
     }
 }
 
-function reload-profile {
+function Import-Profile {
     & $profile
 }
 function find-file($name) {
